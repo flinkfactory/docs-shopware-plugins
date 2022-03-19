@@ -1,0 +1,11 @@
+{
+	"plugin_docs_dir": "docs/plugins/",
+	"plugins": {
+		"FlinkCmsAnchor": "https://store.shopware.com/flink19746029070/sprungmarken/seiteninterne-verweise-fuer-erlebniswelten.html",
+		"FlinkCmsGridBuilder": "https://store.shopware.com/flink17729185242/responsive-grid-builder-fuer-erlebniswelten-eigene-cms-raster-erstellen.html",
+		"FlinkCmsResponsiveHelper": "https://store.shopware.com/flink71241235154/responsives-anzeigen-und-ausblenden-fuer-erlebniswelten.html",
+		"FlinkFriendlyGreeting": "https://store.shopware.com/flink49218718105/persoenliche-kunden-begruessung.html",
+		"FlinkQuickView": "https://store.shopware.com/flink67186482363/produkt-schnellansicht/quick-view-popup.html",
+		"FlinkSizeCharts": "https://store.shopware.com/flink80371762620/groessentabellen-fuer-shopware-6.html"
+	}
+}
