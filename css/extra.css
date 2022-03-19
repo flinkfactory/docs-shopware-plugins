@@ -1,0 +1,12 @@
+[data-md-color-scheme="flink"] {
+    --md-accent-fg-color:  			#17e7d7;
+    --md-primary-fg-color:        	#272727;
+    --md-primary-fg-color--light: 	#f5f5f5;
+    --md-primary-fg-color--dark:  	#000;
+    --md-typeset-a-color:  			var(--md-accent-fg-color);
+}
+
+.md-tabs__link--active, 
+.md-tabs__link:is(:focus,:hover) {
+	color:  var(--md-typeset-a-color);
+}
