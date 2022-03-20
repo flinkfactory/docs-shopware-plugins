@@ -10,3 +10,8 @@
 .md-tabs__link:is(:focus,:hover) {
 	color:  var(--md-typeset-a-color);
 }
+
+.md-content img {
+    box-shadow: 0 2px 6px rgb(0 0 0 / 15%);
+    border-radius: 10px;
+}
