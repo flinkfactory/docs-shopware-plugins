@@ -34,3 +34,5 @@ Falls du eine andere Begrüßung als "Guten Morgen", "Guten Tag" und
 Bedarf den Textbaustein für das Komma zwischen der Begrüßung und
 dem Namen des Kunden entfernen, indem du es durch ein Leerzeichen
 ersetzt.
+
+![Textbausteine](./snippets.png)

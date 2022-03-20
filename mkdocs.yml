@@ -12,41 +12,39 @@ extra_css:
   - css/extra.css
 markdown_extensions:
   - fenced_code
-# plugins:
-#   - privacy  
 nav:
   - Übersicht:
     - Übersicht: index.md
-    - Kontakt: contact.md
+    # - Kontakt: contact.md
     - Zum Community Store: https://store.shopware.com/flink.html#manuExtensions
   - Dokumentationen:
     - Persönliche Begrüßung:
       - Beschreibung: plugins/FlinkFriendlyGreeting/index.md
-      - Installation: plugins/FlinkFriendlyGreeting/installation.md
+      # - Installation: plugins/FlinkFriendlyGreeting/installation.md
       - Konfiguration: plugins/FlinkFriendlyGreeting/configuration.md
-      - FAQ: plugins/FlinkFriendlyGreeting/faq.md
+      # - FAQ: plugins/FlinkFriendlyGreeting/faq.md
     - Sprungmarken:
       - Beschreibung: plugins/FlinkCmsAnchor/index.md
-      - Installation: plugins/FlinkCmsAnchor/installation.md
+      # - Installation: plugins/FlinkCmsAnchor/installation.md
       - Konfiguration: plugins/FlinkCmsAnchor/configuration.md
-      - FAQ: plugins/FlinkCmsAnchor/faq.md
+      # - FAQ: plugins/FlinkCmsAnchor/faq.md
     - Responsives Ein-/Ausblenden:
       - Beschreibung: plugins/FlinkCmsResponsiveHelper/index.md
-      - Installation: plugins/FlinkCmsResponsiveHelper/installation.md
+      # - Installation: plugins/FlinkCmsResponsiveHelper/installation.md
       - Konfiguration: plugins/FlinkCmsResponsiveHelper/configuration.md
-      - FAQ: plugins/FlinkCmsResponsiveHelper/faq.md
+      # - FAQ: plugins/FlinkCmsResponsiveHelper/faq.md
     - Produkt Schnellansicht:
       - Beschreibung: plugins/FlinkQuickView/index.md
-      - Installation: plugins/FlinkQuickView/installation.md
+      # - Installation: plugins/FlinkQuickView/installation.md
       - Konfiguration: plugins/FlinkQuickView/configuration.md
-      - FAQ: plugins/FlinkQuickView/faq.md
+      # - FAQ: plugins/FlinkQuickView/faq.md
     - Größentabellen:
       - Beschreibung: plugins/FlinkSizeCharts/index.md
-      - Installation: plugins/FlinkSizeCharts/installation.md
+      # - Installation: plugins/FlinkSizeCharts/installation.md
       - Konfiguration: plugins/FlinkSizeCharts/configuration.md
-      - FAQ: plugins/FlinkSizeCharts/faq.md
+      # - FAQ: plugins/FlinkSizeCharts/faq.md
     - Reponsive Grid Builder:
       - Beschreibung: plugins/FlinkCmsGridBuilder/index.md
-      - Installation: plugins/FlinkCmsGridBuilder/installation.md
+      # - Installation: plugins/FlinkCmsGridBuilder/installation.md
       - Konfiguration: plugins/FlinkCmsGridBuilder/configuration.md
-      - FAQ: plugins/FlinkCmsGridBuilder/faq.md
+      # - FAQ: plugins/FlinkCmsGridBuilder/faq.md

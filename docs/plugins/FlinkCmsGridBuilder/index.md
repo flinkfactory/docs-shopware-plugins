@@ -15,5 +15,3 @@ Darüber hinaus lassen sich die Layouts responsiv definieren, das heißt, sie k�
 
 Nach dem Erstellen eines Raster-Layouts können Sie dieses wie gewohnt in einem Erlebniswelten-Layout hinzufügen und mit Ihren gewünschten Elementen befüllen.
 
-## Videos
-
