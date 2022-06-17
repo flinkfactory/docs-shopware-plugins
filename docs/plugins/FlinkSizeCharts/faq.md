@@ -21,7 +21,7 @@ aufgebaut sein:
 <tr><td>Wert</td><td>Wert</td><td>Wert</td></tr>
 <tr><td>Wert</td><td>Wert</td><td>Wert</td></tr>
 </tbody>
-</table
+</table>
 
 **Wichtig:** 
 - Zwischen den Definitionen für zwei Reiter muss wie im Beispiel oben eine leere Zeile eingefügt werden!
