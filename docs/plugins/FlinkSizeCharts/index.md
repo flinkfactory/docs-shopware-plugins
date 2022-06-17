@@ -21,7 +21,6 @@ Auf der Produktseite öffnet sich die Größentabelle dann in einem Popup. Der B
 **Weitere Funktionen sind bereits in Arbeit, zum Beispiel:**
 
 * Hochladen einer Tabelle als Bilddatei
-* CSV-Import für Tabellen
 * Hervorheben bestimmter Tabellenspalten oder -zeilen
 * und mehr!
 

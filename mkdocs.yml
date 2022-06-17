@@ -42,7 +42,7 @@ nav:
       - Beschreibung: plugins/FlinkSizeCharts/index.md
       # - Installation: plugins/FlinkSizeCharts/installation.md
       - Konfiguration: plugins/FlinkSizeCharts/configuration.md
-      # - FAQ: plugins/FlinkSizeCharts/faq.md
+      - FAQ: plugins/FlinkSizeCharts/faq.md
     - Reponsive Grid Builder:
       - Beschreibung: plugins/FlinkCmsGridBuilder/index.md
       # - Installation: plugins/FlinkCmsGridBuilder/installation.md
